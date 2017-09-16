@@ -79,3 +79,4 @@ I'm busy most of the time so I can't provide extensive personal support. The cod
 
 If you've spotted a bug or you want to help in any way then please contribute by pull request or by filling an issue.
 
+
